@@ -48,6 +48,23 @@ Left：Real component, Middle: Imaginary component, Right: Magntitude image.
 ![](./display20.png)  
 
  
+
+## Other Related Projects
+  * Multi-Channel and Multi-Model-Based Autoencoding Prior for Grayscale Image Restoration  
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782831)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MEDAEP)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
+
+  * Denoising Auto-encoding Priors in Undecimated Wavelet Domain for MR Image Reconstruction  
+ [<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/1909/1909.01108.pdf)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/WDAEPRec)
+
+  * Learning Priors in High-frequency Domain for Inverse Imaging Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/1910/1910.11148.pdf)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HFDAEP)
+
+  * Learning Multi-Denoising Autoencoding Priors for Image Super-Resolution  
+[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S1047320318302700)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MDAEP-SR)
+
+  * Complex-valued MRI data from SIAT  
+[<font size=5>**[Data]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/test_data_31)
+
  
  
  
