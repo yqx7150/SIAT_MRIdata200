@@ -10,7 +10,7 @@
 
 
 %% #######%%%%% read test data3 %%%%    
-% The original data is the size of 270*256 or 256*270. You need to clip it to be 256*256.      
+% The original data is the size of 270x256 or 256x270. You need to clip it to be 256x256.      
 %load lsq28; Img = imrotate(Img, -90); Img(:,end-6:end) = []; Img(:,1:7) = [];    
 %load lsq68;  Img = imrotate(Img, 90); Img(:,end-6:end) = []; Img(:,1:7) = [];    
 %load lsq200;  Img = imrotate(Img, 90); Img(:,end-6:end) = []; Img(:,1:7) = [];   
