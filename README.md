@@ -37,10 +37,20 @@ for ii =1:200
     subplot(1,2,1),imshow(abs(Img),[]);colorbar;    
     Img = Img./max(abs(Img(:)));    
     subplot(1,2,2),imshow(abs(Img),[]);colorbar;    
-    %size(Img)    
-    ii    
-end    
-   
+ end    
+ 
+ 
+## Visual illustration of the Real and Imaginary component
+![](./real_imag_abs.png)  
+Left：Real component, Middle: Imaginary component, Right: Magntitude image.   
+
+## Visual illustration of 20 data
+![](./display20.png)  
+
+ 
+ 
+ 
+ 
    
    
 
